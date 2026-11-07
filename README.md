@@ -195,3 +195,6 @@ This repository serves as the official landing page for SpongeBob: Krusty Cook-O
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SpongeBob: Krusty Cook-Off today!**
+
+---
+**Last updated:** 2026-11-07 22:29:31 UTC
