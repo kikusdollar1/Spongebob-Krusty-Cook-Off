@@ -197,4 +197,4 @@ This repository serves as the official landing page for SpongeBob: Krusty Cook-O
 **Get the most recent version of SpongeBob: Krusty Cook-Off today!**
 
 ---
-**Last updated:** 2026-11-13 12:50:29 UTC
+**Last updated:** 2026-11-13 20:17:57 UTC
